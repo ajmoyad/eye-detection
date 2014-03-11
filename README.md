@@ -27,4 +27,5 @@ Script de demostración del funcionamiento de las funciones implementadas.
 ***
 
 Autor: Antonio José Moya Díaz - ajmoyad@gmail.com
+
 Fecha: 24 de junio de 2012
