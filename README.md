@@ -18,7 +18,7 @@ Función que dada una imagen de una o varias personas determina el area ocupada 
 
 ##### detectar_ojos.m
 
-Es la función encargada de localizar los ojos en la imagen. Para ello necesita una imagen en la que la piel haya sido previamente extraida (por la función detectar_piel). Escriba ‘help detectar_ojjos’ en la línea de comandos de MATLAB para información sobre su uso.
+Es la función encargada de localizar los ojos en la imagen. Para ello necesita una imagen en la que la piel haya sido previamente extraida (por la función detectar_piel). Escriba ‘help detectar_ojos’ en la línea de comandos de MATLAB para información sobre su uso.
 
 ##### demo.m
 
